@@ -1,4 +1,4 @@
-#---------------------Shebang Statement------------------------
+
 #!/bin/bash
 
 #---------------------Truncating Tables of Sql Database and Hive Database everyday except External Table(partitioned Table)-------------------
