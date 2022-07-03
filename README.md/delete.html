@@ -1,1 +1,0 @@
-# Project_1-Loading-Online-Event-Hits-using-Sqoop-to-Hive-via-Shell-Script
