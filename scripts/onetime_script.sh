@@ -1,4 +1,4 @@
-#-------------Shebang Statement--------------
+
 #!/bin/bash
 
 #--------------Loging into MysQl and creating table------------------
